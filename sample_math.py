@@ -1,7 +1,3 @@
-## For print some thing
-
-print("Hello World")
-
 # Adding
 print (5+8)
 
@@ -14,11 +10,9 @@ print (7 //3)
 # This is the remainder or modulus operator
 print(7 % 3)
 
-print("The end", "or is it?", "keep watching and learn python", 3)
-print ("hello" +  "world")
+# the right-most ** operator gets done first!
+print (2 ** 3 ** 2)
 
-greetings = "Hello"
-name = "Nazmul"
+# use parentheses to force the order you want!
+print((2 ** 3) ** 2)
 
-## you can give a space between two words
-print(greetings + " " + name)
