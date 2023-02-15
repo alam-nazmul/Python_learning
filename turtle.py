@@ -1,6 +1,6 @@
 import turtle
 
-wn = turtle.Screen()
+window = turtle.Screen()
 alex = turtle.Turtle()
 alex.forward(150)
 alex.left(90)
