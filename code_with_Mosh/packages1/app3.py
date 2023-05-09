@@ -1,2 +1,0 @@
-import packages1.shipping
-packages1.shipping.calc_shipping
